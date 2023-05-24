@@ -13,4 +13,4 @@
 ❖Concepts of OOP like Classes and Objects, Data Abstraction, Inheritence and Encapsulation<br>
 ❖Data Structures like Priority Queue, Binary Tree, HashMap<br>
 ❖Basic Text File, Binary File Handling<br>
-❖Basic C++ Concepts like Pointers, Arrays, Vectors, Strings etc.
+❖Basic C++ Concepts like Recursion, Pointers, Arrays, Vectors, Strings etc.
